@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 80vw;
+  margin: auto;
+  padding: 2%;
+  background-color: #67A6CA;
+  border-style: ridge;
+  border-radius: 20px;
+  border-color: #0769AD;
+}
